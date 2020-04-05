@@ -8,6 +8,12 @@
             ],
             "c/helloBinding": [
                 "helloBinding/helloBinding.js"
+            ],
+            "c/helloConditionalRendering": [
+                "helloConditionalRendering/helloConditionalRendering.js"
+            ],
+            "c/helloExpressions": [
+                "helloExpressions/helloExpressions.js"
             ]
         }
     },
