@@ -20,6 +20,12 @@
             ],
             "c/helloIterator": [
                 "helloIterator/helloIterator.js"
+            ],
+            "c/contactTile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/compositionBasics": [
+                "compositionBasics/compositionBasics.js"
             ]
         }
     },
