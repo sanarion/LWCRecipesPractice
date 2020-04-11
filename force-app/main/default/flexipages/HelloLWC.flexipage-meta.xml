@@ -24,6 +24,9 @@
         <componentInstances>
             <componentName>helloForEach</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>helloIterator</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

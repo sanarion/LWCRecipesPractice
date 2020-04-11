@@ -17,6 +17,9 @@
             ],
             "c/helloForEach": [
                 "helloForEach/helloForEach.js"
+            ],
+            "c/helloIterator": [
+                "helloIterator/helloIterator.js"
             ]
         }
     },
