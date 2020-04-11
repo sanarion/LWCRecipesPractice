@@ -11,6 +11,7 @@
     <label>LWCPractice</label>
     <navType>Standard</navType>
     <tabs>HelloLWC</tabs>
+    <tabs>Composition</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWCPractice_UtilityBar</utilityBar>
 </CustomApplication>

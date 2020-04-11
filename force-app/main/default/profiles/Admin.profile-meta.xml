@@ -6,6 +6,15 @@
         <visible>false</visible>
     </applicationVisibilities>
     <custom>false</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contact.Picture__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <tabVisibilities>
+        <tab>Composition</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>HelloLWC</tab>
         <visibility>DefaultOn</visibility>
