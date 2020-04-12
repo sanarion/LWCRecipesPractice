@@ -26,6 +26,18 @@
             ],
             "c/compositionBasics": [
                 "compositionBasics/compositionBasics.js"
+            ],
+            "c/compositionIteration": [
+                "compositionIteration/compositionIteration.js"
+            ],
+            "c/compositionContactSearch": [
+                "compositionContactSearch/compositionContactSearch.js"
+            ],
+            "c/errorPanel": [
+                "errorPanel/errorPanel.js"
+            ],
+            "c/ldsUtils": [
+                "ldsUtils/ldsUtils.js"
             ]
         }
     },
