@@ -10,7 +10,14 @@ export default class CompositionContactSearch extends LightningElement {
   handleKeyChange(event) {
     window.clearTimeout(this.delayTimeout);
     const searchKey = event.target.value;
+    if (searchKey === '') {
+      console.log('error');
+      this.contacts = undefined;
+      this.error = undefined;
+      return;
+    }
     this.delayTimeout = setTimeout(() => {
+      console.log('error2');
       findContacts({searchKey})
         .then(result => {
           this.contacts = result;
