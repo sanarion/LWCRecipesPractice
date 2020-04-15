@@ -8,10 +8,31 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>compositionIteration</componentName>
+        </componentInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>compositionContactSearch</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>numberValue</name>
+                <value>15</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>picklistValue</name>
+                <value>Option Two</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>stringValue</name>
+                <value>TEST</value>
+            </componentInstanceProperties>
+            <componentName>compositionWithAppBuilder</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

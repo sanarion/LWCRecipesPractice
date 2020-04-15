@@ -38,6 +38,21 @@
             ],
             "c/ldsUtils": [
                 "ldsUtils/ldsUtils.js"
+            ],
+            "c/compositionWithAppBuilder": [
+                "compositionWithAppBuilder/compositionWithAppBuilder.js"
+            ],
+            "c/apiProperty": [
+                "apiProperty/apiProperty.js"
+            ],
+            "c/chartBar": [
+                "chartBar/chartBar.js"
+            ],
+            "c/clock": [
+                "clock/clock.js"
+            ],
+            "c/apiFunction": [
+                "apiFunction/apiFunction.js"
             ]
         }
     },
