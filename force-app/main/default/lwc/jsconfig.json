@@ -53,6 +53,12 @@
             ],
             "c/apiFunction": [
                 "apiFunction/apiFunction.js"
+            ],
+            "c/todoList": [
+                "todoList/todoList.js"
+            ],
+            "c/apiSetterGetter": [
+                "apiSetterGetter/apiSetterGetter.js"
             ]
         }
     },
