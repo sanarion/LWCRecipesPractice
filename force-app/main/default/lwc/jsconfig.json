@@ -59,6 +59,18 @@
             ],
             "c/apiSetterGetter": [
                 "apiSetterGetter/apiSetterGetter.js"
+            ],
+            "c/paginator": [
+                "paginator/paginator.js"
+            ],
+            "c/eventSimple": [
+                "eventSimple/eventSimple.js"
+            ],
+            "c/contactListItem": [
+                "contactListItem/contactListItem.js"
+            ],
+            "c/eventWithData": [
+                "eventWithData/eventWithData.js"
             ]
         }
     },
