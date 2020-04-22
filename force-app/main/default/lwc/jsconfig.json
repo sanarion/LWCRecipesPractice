@@ -71,6 +71,15 @@
             ],
             "c/eventWithData": [
                 "eventWithData/eventWithData.js"
+            ],
+            "c/lds": [
+                "lds/lds.js"
+            ],
+            "c/eventBubbling": [
+                "eventBubbling/eventBubbling.js"
+            ],
+            "c/contactListItemBubbling": [
+                "contactListItemBubbling/contactListItemBubbling.js"
             ]
         }
     },
