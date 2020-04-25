@@ -80,6 +80,12 @@
             ],
             "c/contactListItemBubbling": [
                 "contactListItemBubbling/contactListItemBubbling.js"
+            ],
+            "c/ldsCreateRecord": [
+                "ldsCreateRecord/ldsCreateRecord.js"
+            ],
+            "c/ldsDeleteRecord": [
+                "ldsDeleteRecord/ldsDeleteRecord.js"
             ]
         }
     },
