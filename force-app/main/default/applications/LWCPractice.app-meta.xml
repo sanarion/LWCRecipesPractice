@@ -11,8 +11,12 @@
     <label>LWCPractice</label>
     <navType>Standard</navType>
     <tabs>HelloLWC</tabs>
+    <tabs>Apex</tabs>
+    <tabs>Data_Service</tabs>
+    <tabs>standard-Contact</tabs>
     <tabs>Composition</tabs>
     <tabs>Parent_to_Child</tabs>
+    <tabs>Child_to_Parent</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWCPractice_UtilityBar</utilityBar>
 </CustomApplication>

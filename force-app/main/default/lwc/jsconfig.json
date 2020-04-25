@@ -86,6 +86,9 @@
             ],
             "c/ldsDeleteRecord": [
                 "ldsDeleteRecord/ldsDeleteRecord.js"
+            ],
+            "c/apexWireMethodToProperty": [
+                "apexWireMethodToProperty/apexWireMethodToProperty.js"
             ]
         }
     },
