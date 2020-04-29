@@ -3,6 +3,66 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
+            "c/apexImperativeMethod": [
+                "apexImperativeMethod/apexImperativeMethod.js"
+            ],
+            "c/apexStaticSchema": [
+                "apexStaticSchema/apexStaticSchema.js"
+            ],
+            "c/apexWireMethodToFunction": [
+                "apexWireMethodToFunction/apexWireMethodToFunction.js"
+            ],
+            "c/apexWireMethodToProperty": [
+                "apexWireMethodToProperty/apexWireMethodToProperty.js"
+            ],
+            "c/apiFunction": [
+                "apiFunction/apiFunction.js"
+            ],
+            "c/apiProperty": [
+                "apiProperty/apiProperty.js"
+            ],
+            "c/apiSetterGetter": [
+                "apiSetterGetter/apiSetterGetter.js"
+            ],
+            "c/chartBar": [
+                "chartBar/chartBar.js"
+            ],
+            "c/clock": [
+                "clock/clock.js"
+            ],
+            "c/compositionBasics": [
+                "compositionBasics/compositionBasics.js"
+            ],
+            "c/compositionContactSearch": [
+                "compositionContactSearch/compositionContactSearch.js"
+            ],
+            "c/compositionIteration": [
+                "compositionIteration/compositionIteration.js"
+            ],
+            "c/compositionWithAppBuilder": [
+                "compositionWithAppBuilder/compositionWithAppBuilder.js"
+            ],
+            "c/contactListItem": [
+                "contactListItem/contactListItem.js"
+            ],
+            "c/contactListItemBubbling": [
+                "contactListItemBubbling/contactListItemBubbling.js"
+            ],
+            "c/contactTile": [
+                "contactTile/contactTile.js"
+            ],
+            "c/errorPanel": [
+                "errorPanel/errorPanel.js"
+            ],
+            "c/eventBubbling": [
+                "eventBubbling/eventBubbling.js"
+            ],
+            "c/eventSimple": [
+                "eventSimple/eventSimple.js"
+            ],
+            "c/eventWithData": [
+                "eventWithData/eventWithData.js"
+            ],
             "c/hello": [
                 "hello/hello.js"
             ],
@@ -21,65 +81,8 @@
             "c/helloIterator": [
                 "helloIterator/helloIterator.js"
             ],
-            "c/contactTile": [
-                "contactTile/contactTile.js"
-            ],
-            "c/compositionBasics": [
-                "compositionBasics/compositionBasics.js"
-            ],
-            "c/compositionIteration": [
-                "compositionIteration/compositionIteration.js"
-            ],
-            "c/compositionContactSearch": [
-                "compositionContactSearch/compositionContactSearch.js"
-            ],
-            "c/errorPanel": [
-                "errorPanel/errorPanel.js"
-            ],
-            "c/ldsUtils": [
-                "ldsUtils/ldsUtils.js"
-            ],
-            "c/compositionWithAppBuilder": [
-                "compositionWithAppBuilder/compositionWithAppBuilder.js"
-            ],
-            "c/apiProperty": [
-                "apiProperty/apiProperty.js"
-            ],
-            "c/chartBar": [
-                "chartBar/chartBar.js"
-            ],
-            "c/clock": [
-                "clock/clock.js"
-            ],
-            "c/apiFunction": [
-                "apiFunction/apiFunction.js"
-            ],
-            "c/todoList": [
-                "todoList/todoList.js"
-            ],
-            "c/apiSetterGetter": [
-                "apiSetterGetter/apiSetterGetter.js"
-            ],
-            "c/paginator": [
-                "paginator/paginator.js"
-            ],
-            "c/eventSimple": [
-                "eventSimple/eventSimple.js"
-            ],
-            "c/contactListItem": [
-                "contactListItem/contactListItem.js"
-            ],
-            "c/eventWithData": [
-                "eventWithData/eventWithData.js"
-            ],
             "c/lds": [
                 "lds/lds.js"
-            ],
-            "c/eventBubbling": [
-                "eventBubbling/eventBubbling.js"
-            ],
-            "c/contactListItemBubbling": [
-                "contactListItemBubbling/contactListItemBubbling.js"
             ],
             "c/ldsCreateRecord": [
                 "ldsCreateRecord/ldsCreateRecord.js"
@@ -87,8 +90,35 @@
             "c/ldsDeleteRecord": [
                 "ldsDeleteRecord/ldsDeleteRecord.js"
             ],
-            "c/apexWireMethodToProperty": [
-                "apexWireMethodToProperty/apexWireMethodToProperty.js"
+            "c/ldsUtils": [
+                "ldsUtils/ldsUtils.js"
+            ],
+            "c/paginator": [
+                "paginator/paginator.js"
+            ],
+            "c/todoList": [
+                "todoList/todoList.js"
+            ],
+            "c/apexWireMethodWithParams": [
+                "apexWireMethodWithParams/apexWireMethodWithParams.js"
+            ],
+            "c/apexImperativeMethodWithParams": [
+                "apexImperativeMethodWithParams/apexImperativeMethodWithParams.js"
+            ],
+            "c/ApexImperativeMethodWithParams": [
+                "ApexImperativeMethodWithParams/ApexImperativeMethodWithParams.js"
+            ],
+            "c/apexWireMethodWithComplexParams": [
+                "apexWireMethodWithComplexParams/apexWireMethodWithComplexParams.js"
+            ],
+            "c/ApexWireMethodWithComplexParams": [
+                "ApexWireMethodWithComplexParams/ApexWireMethodWithComplexParams.js"
+            ],
+            "c/apexImperativeMethodWithComplexParams": [
+                "apexImperativeMethodWithComplexParams/apexImperativeMethodWithComplexParams.js"
+            ],
+            "c/ApexImperativeMethodWithComplexParams": [
+                "ApexImperativeMethodWithComplexParams/ApexImperativeMethodWithComplexParams.js"
             ]
         }
     },

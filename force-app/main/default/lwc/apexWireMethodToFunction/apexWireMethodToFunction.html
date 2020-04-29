@@ -1,0 +1,24 @@
+<template>
+  <lightning-card title="ApexWireMethodToFunction" icon-name="custom:custom63">
+    <div class="slds-m-around_medium">
+      <template if:true={contacts}>
+        <template for:each={contacts} for:item="contact">
+          <p key={contact.Id}>{contact.Name}</p>
+        </template>
+      </template>
+      <template if:true={error}>
+        <c-error-panel errors={error}></c-error-panel>
+      </template>
+    </div>
+    <div>
+      <lightning-layout >
+        <lightning-layout-item padding="around-small">
+          <lightning-button label="clear" variant="Destructive" onclick={handleClear}></lightning-button>
+        </lightning-layout-item>
+        <lightning-layout-item padding="around-small">
+          <lightning-button label="getContact" variant="success" onclick={handleGet}></lightning-button>
+        </lightning-layout-item>
+      </lightning-layout>
+    </div>
+  </lightning-card>
+</template>
