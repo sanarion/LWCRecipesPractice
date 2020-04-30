@@ -6,6 +6,12 @@
             "c/apexImperativeMethod": [
                 "apexImperativeMethod/apexImperativeMethod.js"
             ],
+            "c/apexImperativeMethodWithComplexParams": [
+                "apexImperativeMethodWithComplexParams/apexImperativeMethodWithComplexParams.js"
+            ],
+            "c/apexImperativeMethodWithParams": [
+                "apexImperativeMethodWithParams/apexImperativeMethodWithParams.js"
+            ],
             "c/apexStaticSchema": [
                 "apexStaticSchema/apexStaticSchema.js"
             ],
@@ -14,6 +20,12 @@
             ],
             "c/apexWireMethodToProperty": [
                 "apexWireMethodToProperty/apexWireMethodToProperty.js"
+            ],
+            "c/apexWireMethodWithComplexParams": [
+                "apexWireMethodWithComplexParams/apexWireMethodWithComplexParams.js"
+            ],
+            "c/apexWireMethodWithParams": [
+                "apexWireMethodWithParams/apexWireMethodWithParams.js"
             ],
             "c/apiFunction": [
                 "apiFunction/apiFunction.js"
@@ -99,26 +111,11 @@
             "c/todoList": [
                 "todoList/todoList.js"
             ],
-            "c/apexWireMethodWithParams": [
-                "apexWireMethodWithParams/apexWireMethodWithParams.js"
+            "c/wireGetRecordUser": [
+                "wireGetRecordUser/wireGetRecordUser.js"
             ],
-            "c/apexImperativeMethodWithParams": [
-                "apexImperativeMethodWithParams/apexImperativeMethodWithParams.js"
-            ],
-            "c/ApexImperativeMethodWithParams": [
-                "ApexImperativeMethodWithParams/ApexImperativeMethodWithParams.js"
-            ],
-            "c/apexWireMethodWithComplexParams": [
-                "apexWireMethodWithComplexParams/apexWireMethodWithComplexParams.js"
-            ],
-            "c/ApexWireMethodWithComplexParams": [
-                "ApexWireMethodWithComplexParams/ApexWireMethodWithComplexParams.js"
-            ],
-            "c/apexImperativeMethodWithComplexParams": [
-                "apexImperativeMethodWithComplexParams/apexImperativeMethodWithComplexParams.js"
-            ],
-            "c/ApexImperativeMethodWithComplexParams": [
-                "ApexImperativeMethodWithComplexParams/ApexImperativeMethodWithComplexParams.js"
+            "c/WireGetRecordUser": [
+                "WireGetRecordUser/WireGetRecordUser.js"
             ]
         }
     },
