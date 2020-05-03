@@ -111,11 +111,35 @@
             "c/todoList": [
                 "todoList/todoList.js"
             ],
+            "c/wireGetObjectInfo": [
+                "wireGetObjectInfo/wireGetObjectInfo.js"
+            ],
             "c/wireGetRecordUser": [
                 "wireGetRecordUser/wireGetRecordUser.js"
             ],
-            "c/WireGetRecordUser": [
-                "WireGetRecordUser/WireGetRecordUser.js"
+            "c/wireCurrentPageReference": [
+                "wireCurrentPageReference/wireCurrentPageReference.js"
+            ],
+            "c/WireCurrentPageReference": [
+                "WireCurrentPageReference/WireCurrentPageReference.js"
+            ],
+            "c/wireListView": [
+                "wireListView/wireListView.js"
+            ],
+            "c/WireListView": [
+                "WireListView/WireListView.js"
+            ],
+            "c/wireGetPicklistValues": [
+                "wireGetPicklistValues/wireGetPicklistValues.js"
+            ],
+            "c/WireGetPicklistValues": [
+                "WireGetPicklistValues/WireGetPicklistValues.js"
+            ],
+            "c/wireGetPicklistValuesByRecordType": [
+                "wireGetPicklistValuesByRecordType/wireGetPicklistValuesByRecordType.js"
+            ],
+            "c/WireGetPicklistValuesByRecordType": [
+                "WireGetPicklistValuesByRecordType/WireGetPicklistValuesByRecordType.js"
             ]
         }
     },

@@ -17,10 +17,25 @@
         <componentInstances>
             <componentName>wireGetRecordUser</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentName>wireGetObjectInfo</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>wireCurrentPageReference</componentName>
+        </componentInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>wireListView</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>wireGetPicklistValues</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>wireGetPicklistValuesByRecordType</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
