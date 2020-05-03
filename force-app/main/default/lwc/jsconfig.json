@@ -140,6 +140,24 @@
             ],
             "c/WireGetPicklistValuesByRecordType": [
                 "WireGetPicklistValuesByRecordType/WireGetPicklistValuesByRecordType.js"
+            ],
+            "c/recordFormDynamicContact": [
+                "recordFormDynamicContact/recordFormDynamicContact.js"
+            ],
+            "c/recordViewFormDynamicContact": [
+                "recordViewFormDynamicContact/recordViewFormDynamicContact.js"
+            ],
+            "c/RecordViewFormDynamicContact": [
+                "RecordViewFormDynamicContact/RecordViewFormDynamicContact.js"
+            ],
+            "c/recordEditFormDynamicContact": [
+                "recordEditFormDynamicContact/recordEditFormDynamicContact.js"
+            ],
+            "c/RecordEditFormDynamicContact": [
+                "RecordEditFormDynamicContact/RecordEditFormDynamicContact.js"
+            ],
+            "c/wireGetRecordDynamicContact": [
+                "wireGetRecordDynamicContact/wireGetRecordDynamicContact.js"
             ]
         }
     },
