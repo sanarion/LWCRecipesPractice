@@ -108,38 +108,8 @@
             "c/paginator": [
                 "paginator/paginator.js"
             ],
-            "c/todoList": [
-                "todoList/todoList.js"
-            ],
-            "c/wireGetObjectInfo": [
-                "wireGetObjectInfo/wireGetObjectInfo.js"
-            ],
-            "c/wireGetRecordUser": [
-                "wireGetRecordUser/wireGetRecordUser.js"
-            ],
-            "c/wireCurrentPageReference": [
-                "wireCurrentPageReference/wireCurrentPageReference.js"
-            ],
-            "c/WireCurrentPageReference": [
-                "WireCurrentPageReference/WireCurrentPageReference.js"
-            ],
-            "c/wireListView": [
-                "wireListView/wireListView.js"
-            ],
-            "c/WireListView": [
-                "WireListView/WireListView.js"
-            ],
-            "c/wireGetPicklistValues": [
-                "wireGetPicklistValues/wireGetPicklistValues.js"
-            ],
-            "c/WireGetPicklistValues": [
-                "WireGetPicklistValues/WireGetPicklistValues.js"
-            ],
-            "c/wireGetPicklistValuesByRecordType": [
-                "wireGetPicklistValuesByRecordType/wireGetPicklistValuesByRecordType.js"
-            ],
-            "c/WireGetPicklistValuesByRecordType": [
-                "WireGetPicklistValuesByRecordType/WireGetPicklistValuesByRecordType.js"
+            "c/recordEditFormDynamicContact": [
+                "recordEditFormDynamicContact/recordEditFormDynamicContact.js"
             ],
             "c/recordFormDynamicContact": [
                 "recordFormDynamicContact/recordFormDynamicContact.js"
@@ -147,17 +117,47 @@
             "c/recordViewFormDynamicContact": [
                 "recordViewFormDynamicContact/recordViewFormDynamicContact.js"
             ],
-            "c/RecordViewFormDynamicContact": [
-                "RecordViewFormDynamicContact/RecordViewFormDynamicContact.js"
+            "c/todoList": [
+                "todoList/todoList.js"
             ],
-            "c/recordEditFormDynamicContact": [
-                "recordEditFormDynamicContact/recordEditFormDynamicContact.js"
+            "c/wireCurrentPageReference": [
+                "wireCurrentPageReference/wireCurrentPageReference.js"
             ],
-            "c/RecordEditFormDynamicContact": [
-                "RecordEditFormDynamicContact/RecordEditFormDynamicContact.js"
+            "c/wireGetObjectInfo": [
+                "wireGetObjectInfo/wireGetObjectInfo.js"
+            ],
+            "c/wireGetPicklistValues": [
+                "wireGetPicklistValues/wireGetPicklistValues.js"
+            ],
+            "c/wireGetPicklistValuesByRecordType": [
+                "wireGetPicklistValuesByRecordType/wireGetPicklistValuesByRecordType.js"
             ],
             "c/wireGetRecordDynamicContact": [
                 "wireGetRecordDynamicContact/wireGetRecordDynamicContact.js"
+            ],
+            "c/wireGetRecordUser": [
+                "wireGetRecordUser/wireGetRecordUser.js"
+            ],
+            "c/wireListView": [
+                "wireListView/wireListView.js"
+            ],
+            "c/miscGetUserId": [
+                "miscGetUserId/miscGetUserId.js"
+            ],
+            "c/MiscGetUserId": [
+                "MiscGetUserId/MiscGetUserId.js"
+            ],
+            "c/miscNotification": [
+                "miscNotification/miscNotification.js"
+            ],
+            "c/MiscNotification": [
+                "MiscNotification/MiscNotification.js"
+            ],
+            "c/miscModal": [
+                "miscModal/miscModal.js"
+            ],
+            "c/modal": [
+                "modal/modal.js"
             ]
         }
     },
