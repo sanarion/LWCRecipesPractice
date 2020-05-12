@@ -105,6 +105,18 @@
             "c/ldsUtils": [
                 "ldsUtils/ldsUtils.js"
             ],
+            "c/miscGetUserId": [
+                "miscGetUserId/miscGetUserId.js"
+            ],
+            "c/miscModal": [
+                "miscModal/miscModal.js"
+            ],
+            "c/miscNotification": [
+                "miscNotification/miscNotification.js"
+            ],
+            "c/modal": [
+                "modal/modal.js"
+            ],
             "c/paginator": [
                 "paginator/paginator.js"
             ],
@@ -141,23 +153,20 @@
             "c/wireListView": [
                 "wireListView/wireListView.js"
             ],
-            "c/miscGetUserId": [
-                "miscGetUserId/miscGetUserId.js"
+            "c/miscSharedJavaScript": [
+                "miscSharedJavaScript/miscSharedJavaScript.js"
             ],
-            "c/MiscGetUserId": [
-                "MiscGetUserId/MiscGetUserId.js"
+            "c/mortage": [
+                "mortage/mortage.js"
             ],
-            "c/miscNotification": [
-                "miscNotification/miscNotification.js"
+            "c/MiscSharedJavaScript": [
+                "MiscSharedJavaScript/MiscSharedJavaScript.js"
             ],
-            "c/MiscNotification": [
-                "MiscNotification/MiscNotification.js"
+            "c/miscRestApiCall": [
+                "miscRestApiCall/miscRestApiCall.js"
             ],
-            "c/miscModal": [
-                "miscModal/miscModal.js"
-            ],
-            "c/modal": [
-                "modal/modal.js"
+            "c/MiscRestApiCall": [
+                "MiscRestApiCall/MiscRestApiCall.js"
             ]
         }
     },
