@@ -14,10 +14,28 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>miscSharedJavaScript</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>miscRestApiCall</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>miscDomQuery</componentName>
+        </componentInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>miscStaticResource</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>miscContentAsset</componentName>
+        </componentInstances>
+        <componentInstances>
+            <componentName>miscMultipleTemplates</componentName>
+        </componentInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>

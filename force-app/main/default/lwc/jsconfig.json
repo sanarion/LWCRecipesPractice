@@ -114,8 +114,17 @@
             "c/miscNotification": [
                 "miscNotification/miscNotification.js"
             ],
+            "c/miscRestApiCall": [
+                "miscRestApiCall/miscRestApiCall.js"
+            ],
+            "c/miscSharedJavaScript": [
+                "miscSharedJavaScript/miscSharedJavaScript.js"
+            ],
             "c/modal": [
                 "modal/modal.js"
+            ],
+            "c/mortage": [
+                "mortage/mortage.js"
             ],
             "c/paginator": [
                 "paginator/paginator.js"
@@ -153,20 +162,29 @@
             "c/wireListView": [
                 "wireListView/wireListView.js"
             ],
-            "c/miscSharedJavaScript": [
-                "miscSharedJavaScript/miscSharedJavaScript.js"
+            "c/miscDomQuery": [
+                "miscDomQuery/miscDomQuery.js"
             ],
-            "c/mortage": [
-                "mortage/mortage.js"
+            "c/MiscDomQuery": [
+                "MiscDomQuery/MiscDomQuery.js"
             ],
-            "c/MiscSharedJavaScript": [
-                "MiscSharedJavaScript/MiscSharedJavaScript.js"
+            "c/miscStaticResource": [
+                "miscStaticResource/miscStaticResource.js"
             ],
-            "c/miscRestApiCall": [
-                "miscRestApiCall/miscRestApiCall.js"
+            "c/MiscStaticResource": [
+                "MiscStaticResource/MiscStaticResource.js"
             ],
-            "c/MiscRestApiCall": [
-                "MiscRestApiCall/MiscRestApiCall.js"
+            "c/miscContentAsset": [
+                "miscContentAsset/miscContentAsset.js"
+            ],
+            "c/MiscContentAsset": [
+                "MiscContentAsset/MiscContentAsset.js"
+            ],
+            "c/miscMultipleTemplates": [
+                "miscMultipleTemplates/miscMultipleTemplates.js"
+            ],
+            "c/MiscMultipleTemplates": [
+                "MiscMultipleTemplates/MiscMultipleTemplates.js"
             ]
         }
     },
