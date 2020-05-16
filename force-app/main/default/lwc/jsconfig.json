@@ -105,11 +105,20 @@
             "c/ldsUtils": [
                 "ldsUtils/ldsUtils.js"
             ],
+            "c/miscContentAsset": [
+                "miscContentAsset/miscContentAsset.js"
+            ],
+            "c/miscDomQuery": [
+                "miscDomQuery/miscDomQuery.js"
+            ],
             "c/miscGetUserId": [
                 "miscGetUserId/miscGetUserId.js"
             ],
             "c/miscModal": [
                 "miscModal/miscModal.js"
+            ],
+            "c/miscMultipleTemplates": [
+                "miscMultipleTemplates/miscMultipleTemplates.js"
             ],
             "c/miscNotification": [
                 "miscNotification/miscNotification.js"
@@ -119,6 +128,9 @@
             ],
             "c/miscSharedJavaScript": [
                 "miscSharedJavaScript/miscSharedJavaScript.js"
+            ],
+            "c/miscStaticResource": [
+                "miscStaticResource/miscStaticResource.js"
             ],
             "c/modal": [
                 "modal/modal.js"
@@ -162,29 +174,23 @@
             "c/wireListView": [
                 "wireListView/wireListView.js"
             ],
-            "c/miscDomQuery": [
-                "miscDomQuery/miscDomQuery.js"
+            "c/pubsubSearchBar": [
+                "pubsubSearchBar/pubsubSearchBar.js"
             ],
-            "c/MiscDomQuery": [
-                "MiscDomQuery/MiscDomQuery.js"
+            "c/pubsub": [
+                "pubsub/pubsub.js"
             ],
-            "c/miscStaticResource": [
-                "miscStaticResource/miscStaticResource.js"
+            "c/pubsubContactList": [
+                "pubsubContactList/pubsubContactList.js"
             ],
-            "c/MiscStaticResource": [
-                "MiscStaticResource/MiscStaticResource.js"
+            "c/PubsubContactList": [
+                "PubsubContactList/PubsubContactList.js"
             ],
-            "c/miscContentAsset": [
-                "miscContentAsset/miscContentAsset.js"
+            "c/pubsubContactDetails": [
+                "pubsubContactDetails/pubsubContactDetails.js"
             ],
-            "c/MiscContentAsset": [
-                "MiscContentAsset/MiscContentAsset.js"
-            ],
-            "c/miscMultipleTemplates": [
-                "miscMultipleTemplates/miscMultipleTemplates.js"
-            ],
-            "c/MiscMultipleTemplates": [
-                "MiscMultipleTemplates/MiscMultipleTemplates.js"
+            "c/PubsubContactDetails": [
+                "PubsubContactDetails/PubsubContactDetails.js"
             ]
         }
     },
