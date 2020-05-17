@@ -36,6 +36,7 @@
     <tabs>Parent_to_Child</tabs>
     <tabs>Child_to_Parent</tabs>
     <tabs>Misc</tabs>
+    <tabs>X3rd_Party_Libs</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LWCPractice_UtilityBar</utilityBar>
 </CustomApplication>

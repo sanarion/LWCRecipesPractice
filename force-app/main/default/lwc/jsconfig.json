@@ -141,6 +141,18 @@
             "c/paginator": [
                 "paginator/paginator.js"
             ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ],
+            "c/pubsubContactDetails": [
+                "pubsubContactDetails/pubsubContactDetails.js"
+            ],
+            "c/pubsubContactList": [
+                "pubsubContactList/pubsubContactList.js"
+            ],
+            "c/pubsubSearchBar": [
+                "pubsubSearchBar/pubsubSearchBar.js"
+            ],
             "c/recordEditFormDynamicContact": [
                 "recordEditFormDynamicContact/recordEditFormDynamicContact.js"
             ],
@@ -174,23 +186,17 @@
             "c/wireListView": [
                 "wireListView/wireListView.js"
             ],
-            "c/pubsubSearchBar": [
-                "pubsubSearchBar/pubsubSearchBar.js"
+            "c/libsD3": [
+                "libsD3/libsD3.js"
             ],
-            "c/pubsub": [
-                "pubsub/pubsub.js"
+            "c/LibsD3": [
+                "LibsD3/LibsD3.js"
             ],
-            "c/pubsubContactList": [
-                "pubsubContactList/pubsubContactList.js"
+            "c/libsChart": [
+                "libsChart/libsChart.js"
             ],
-            "c/PubsubContactList": [
-                "PubsubContactList/PubsubContactList.js"
-            ],
-            "c/pubsubContactDetails": [
-                "pubsubContactDetails/pubsubContactDetails.js"
-            ],
-            "c/PubsubContactDetails": [
-                "PubsubContactDetails/PubsubContactDetails.js"
+            "c/libsMomentjs": [
+                "libsMomentjs/libsMomentjs.js"
             ]
         }
     },
